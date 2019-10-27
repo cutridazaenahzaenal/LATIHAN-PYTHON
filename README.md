@@ -24,7 +24,7 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>3.ketikan perintah
 <br/> **git config --global user.name "username hub anda"**
 <br/> **git config --global user.email "email hub anda"**
-<br/>![2hubungkan](https://user-images.githubusercontent.com/56870558/67306357-0948c280-f521-11e9-83ba-fb213f78b1f0.jpg)
+<br/>![3](https://user-images.githubusercontent.com/56877903/67621936-e24f0100-f83e-11e9-91d9-be927b6000d2.PNG)
 ## membuat repository local
 <br/>**1**. buat folder baru di windows explorer contoh d:\bahasa pemrograman
 <br/>**2**. klik kanan dan pilih Git Bash
@@ -32,11 +32,12 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>**3**. setelah ke git bash command buat direktori latihan anda contoh **latihan1**
 <br/> **$ mkdir latihan1**
 <br/> **$ cd latihan1**
-<br/>![4 buat folder](https://user-images.githubusercontent.com/56870558/67306356-08b02c00-f521-11e9-911f-bbf673de2954.jpg)
+<br/>![4](https://user-images.githubusercontent.com/56877903/67621937-e24f0100-f83e-11e9-8523-827afffa3467.PNG)
 ## Membuat repository local
 <br/>1.jalankan perintah **$ git init**
 <br/>2. jika berhasil akan ada folder tersembunyi dengan nama **.git** di dalam folder latihan1
-<br/>![5buat trpost local](https://user-images.githubusercontent.com/56870558/67308432-4c586500-f524-11e9-82bc-82e678640740.jpg)
+<br/>
+![5](https://user-images.githubusercontent.com/56877903/67621938-e2e79780-f83e-11e9-85c2-ea1495a61187.PNG)
 <br/>
 ## Menambahkan file baru di repository
 <br/>1.kita coba buat file bernama README.md 
