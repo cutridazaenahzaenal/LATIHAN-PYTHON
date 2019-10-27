@@ -43,12 +43,10 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>1.kita coba buat file bernama README.md 
 <br/>2.jalankan perintah **$ echo "#latihan1" >> README.md**
 <br/>3.file README.md Berhasil di buat
-<br/>![6buat readme md](https://user-images.githubusercontent.com/56870558/67308433-4c586500-f524-11e9-95a6-6e56c5455086.jpg)
 <br/>
 <br/>4.tambahkan file tersebut ke dalam repository anda dengan perintah
 <br/>**$ git add README.md**
-<br/>![6c](https://user-images.githubusercontent.com/56870558/67308435-4cf0fb80-f524-11e9-82d6-2b44e3065d80.jpg)
-
+<br/>
 ## Simpan Perubahan Ke Data Base *commit*##
 <br/>1.gunakan perintah **git commit -m "commit command"**
 <br/>contoh : **$ git commit -m "file pertama"**
@@ -68,7 +66,7 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>1.Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 <br/>2.untuk menambahkan gunakan perintah **git remote add origin *(url)***
 <br/>3.contoh **$ git remote add origin https://github.com/cutridazaenahzaenal/LATIHAN-PYTHON**
-<br/>![add origin](https://user-images.githubusercontent.com/56870558/67310110-53cd3d80-f527-11e9-818a-8cfb47939cb3.jpg)
+<br/>
 <br/>
 
 ## Mengirimkan ke server *push*
