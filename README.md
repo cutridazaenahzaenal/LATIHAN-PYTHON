@@ -28,7 +28,7 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 ## membuat repository local
 <br/>**1**. buat folder baru di windows explorer contoh d:\bahasa pemrograman
 <br/>**2**. klik kanan dan pilih Git Bash
-<br/>![3buat repost local](https://user-images.githubusercontent.com/56870558/67306361-0948c280-f521-11e9-9f7a-44c52195923c.jpg)
+<br/>![3buat repost local]
 <br/>**3**. setelah ke git bash command buat direktori latihan anda contoh **latihan1**
 <br/> **$ mkdir latihan1**
 <br/> **$ cd latihan1**
