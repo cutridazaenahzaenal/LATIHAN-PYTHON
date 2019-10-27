@@ -52,7 +52,8 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 ## Simpan Perubahan Ke Data Base *commit*##
 <br/>1.gunakan perintah **git commit -m "commit command"**
 <br/>contoh : **$ git commit -m "file pertama"**
-<br/>![6d](https://user-images.githubusercontent.com/56870558/67308437-4cf0fb80-f524-11e9-9781-23501adab517.jpg) 
+<br/> perubahan berhasil di buat>>>>>>>>><<?>><?><><
+
 <br/> perubahan berhasil di buat
 
 ## Membuat REpository Server
@@ -62,12 +63,11 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>4.**masukan repository** name contoh : latihan1
 <br/>5.unchecklist pada **initialize this repository with a README** agar memudahkan tutorial pembelajaran ini
 <br/>6.lalu klik **create repository**
-<br/>![8 repostr](https://user-images.githubusercontent.com/56870558/67309649-701caa80-f526-11e9-8a09-99d9c9158943.jpg)
 <br/>
 ## Menambahkan Remote Repository 
 <br/>1.Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 <br/>2.untuk menambahkan gunakan perintah **git remote add origin *(url)***
-<br/>3.contoh **$ git remote add origin https://github.com/alikenzo99/latihan1.git**
+<br/>3.contoh **$ git remote add origin https://github.com/cutridazaenahzaenal/LATIHAN-PYTHON**
 <br/>![add origin](https://user-images.githubusercontent.com/56870558/67310110-53cd3d80-f527-11e9-818a-8cfb47939cb3.jpg)
 <br/>
 
@@ -75,15 +75,11 @@ download dan install aplikasi git sesuai os anda.. bisa download di (https://git
 <br/>1.untuk mengirim perubahan local repository ke server gunakan printah git push
 <br/> **$ git push -u origin master**
 <br/>2.nanti akan diminta password dan email anda pastikan input dengan benar
-<br/>![push u](https://user-images.githubusercontent.com/56870558/67310444-f2599e80-f527-11e9-9da3-3cb37b087c13.jpg)
-<br/>
 <br/>
 ## Selesai sudah
 <br/>1.untuk melihatnya coba buka laman https://github.com) arahkan pada repository yang anda buat tadi
 <br/>2.maka perubahan dapat terlihat dengan munculnya file readme.md disitu..
 <br/>
-<br/>![selesai](https://user-images.githubusercontent.com/56870558/67310446-f2599e80-f527-11e9-9213-528d4efc1caf.jpg)
-
 
 
 
